@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Order.Api/Order.Api.csproj" />
+  <Project Path="Order.Worker/Order.Worker.csproj" />
+</Solution>
